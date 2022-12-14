@@ -1,4 +1,4 @@
-#include <stdio.h>
+cd#include <stdio.h>
 
 int somma(int n,int arr[])
 {
